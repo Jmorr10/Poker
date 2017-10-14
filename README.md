@@ -5,6 +5,8 @@ Date: 11-7-10
 # Note:
 This code has not been edited or maintained since it was written. It serves as an early example of my explorations in coding.
 
+![Screenshot](Screenshot.jpg "Screenshot of the program")
+
 # Description:
 Each component of this program serves a different purpose, FOR INSTRUCTIONS ON USE OF EACH SEE LIST BELOW:
 
@@ -94,10 +96,10 @@ This file.
 Poker.java:
 This class contains the methods and subclasses needed for the poker game to function.
 
-Parts Implemented:
+# Parts Implemented:
 All but that which is included in Parts Not Implemented.
 
-Parts Not Implemented:
+# Parts Not Implemented:
 During an open game, the user cannot see the remaining cards of the deck. This was NOT intentionally left out. I accidentally forgot to add this feature.
 
 # Notes:
@@ -106,10 +108,10 @@ In addition to the graphical interface, the dealer has been programmed with a ba
 # Known Bugs:
 There are no known bugs so long as the user enters the correct form and content for command line arguments during test cases 3 and 4.
 
-Extra Credit:
+# Extra Credit:
 See Notes.
 
-Sample Output:
+# Sample Output:
  
 Problem #1:
 Ace of hearts
